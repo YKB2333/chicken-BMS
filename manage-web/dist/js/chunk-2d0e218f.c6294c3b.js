@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e218f"],{"7cf3":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("Card",[e._v("\n        团队用户列表\n    ")])],1)},a=[],r={name:"team-user"},u=r,s=t("2877"),d=Object(s["a"])(u,c,a,!1,null,"0d641c9b",null);n["default"]=d.exports}}]);
